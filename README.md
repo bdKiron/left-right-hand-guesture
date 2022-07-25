@@ -1,2 +1,2 @@
 # left and right-hand-guesture
-left right hand guesture using OpenCv and CvZone
+left and right hand guesture using OpenCv and CvZone
